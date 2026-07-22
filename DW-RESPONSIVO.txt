@@ -1,0 +1,28 @@
+Diseño Web Responsivo
+¿Qué es?
+El diseño web responsivo es una técnica que permite que una página web se adapte automáticamente al tamaño de la pantalla del dispositivo desde el que se visualiza, como computadoras, tablets o teléfonos móviles.
+Importancia
+•	Mejora la experiencia del usuario. 
+•	Facilita la navegación en cualquier dispositivo. 
+•	Ayuda a posicionar mejor el sitio web en los motores de búsqueda. 
+•	Reduce la necesidad de crear versiones diferentes para cada dispositivo. 
+Características
+•	Diseño flexible. 
+•	Imágenes adaptables. 
+•	Menús fáciles de usar. 
+•	Contenido organizado y legible. 
+Tecnologías utilizadas
+•	HTML: estructura el contenido de la página. 
+•	CSS: da estilo y adapta el diseño. 
+•	JavaScript: agrega interactividad y funciones dinámicas. 
+Conclusión
+El diseño web responsivo es una parte esencial del desarrollo web moderno, ya que garantiza que los usuarios puedan acceder a un sitio de manera cómoda desde cualquier dispositivo.
+________________________________________
+Si debes presentarlo en Word, puedes darle este formato:
+•	Título: Diseño Web Responsivo (Arial 18, negrita, centrado) 
+•	Subtítulos: Arial 14, negrita 
+•	Texto: Calibri 12 o Arial 12, justificado 
+•	Interlineado: 1.5 
+•	Agregar una imagen de una página web vista en computadora, tablet y celular. 
+•	Pie de imagen: Figura 1. Ejemplo de un diseño web responsivo.
+
