@@ -1,4 +1,4 @@
-Diseño web en estos tiempos
+## Diseño web en estos tiempos
 En el mundo digital de hoy, el desarrollo web juega un papel fundamental para la creación y mantenimiento de sitios web, pues cada vez son más las empresas que invierten para tener una página web que les permita vender por Internet. Dentro de este contexto, son los desarrolladores web los especialistas que están detrás de la apariencia, funcionalidad y experiencia del usuario en línea, así como también de crear diferentes tipos de aplicaciones móviles
 ¿Qué es el Desarrollo Web?
 El desarrollo web es el proceso de crear y mantener sitios web, el cual implica la escritura de código en lenguajes como HTML, CSS y JavaScript para construir la estructura, diseño y funcionalidad de un sitio web. El desarrollo de páginas web abarca tanto el aspecto técnico del sitio como la apariencia visual y la experiencia del usuario.
